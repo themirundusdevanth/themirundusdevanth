@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning front end development
 - 💞️ I’m looking to collaborate on MS Excel and Front end Development projects
 - 📫 How to reach me 
-     thecharmingprince29@gmail.com
+  wadjevedant320@gmail.com
 
 
 
